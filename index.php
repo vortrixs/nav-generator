@@ -1,10 +1,5 @@
 <?php
 
-ini_set('display_errors', true);
-error_reporting(E_ALL);
-
-define('DIRECTORY_ROOT', 'path/');
-
 require_once 'NavGenerator.php';
 
 $data = [
